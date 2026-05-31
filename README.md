@@ -1,16 +1,33 @@
-## Hi there 👋
+# M
 
-<!--
-**wxc200916/wxc200916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`办公自动化 | AI小工具 | 财务数据分析`
 
-Here are some ideas to get you started:
+我专注于把重复工作做成简单可用的小工具，帮助个人、财务、行政、运营和小团队提升效率。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我能做什么
+- Excel / CSV 数据清洗、合并、去重、对账
+- 财务报表整理、数据分析、可视化看板
+- 日常办公自动化：文件批处理、报表汇总、台账整理
+- AI 小工具：文案生成、摘要整理、客服话术辅助、知识问答
+
+## 适合的合作场景
+- 每周或每月财务数据汇总
+- 多表合并、对账、差异检查
+- 固定格式报表自动生成
+- 销售、运营、行政台账自动整理
+- AI 辅助写文案、写总结、整理资料
+
+## 近期重点方向
+- 表格自动整理助手
+- 财务数据分析助手
+- 办公流程自动化脚本
+- AI 文案与知识整理工具
+
+## 合作方式
+- 现成小工具
+- 轻量定制
+- 按需求迭代优化
+
+## 联系方式
+- 欢迎通过 Issues 或仓库留言联系
+- 也可以先描述你的业务流程，我会先给出可自动化思路
